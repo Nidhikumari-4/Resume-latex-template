@@ -1,9 +1,6 @@
+# Latex Resume Template
 
-
-
-
-Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
-https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
+Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them. If such an issue arises, simply take the output pdf and print to another pdf, which would be the quickest way to remove "active contents" in the file.
 
 ### Files:
 - resume.tex: Main file
